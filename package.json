@@ -1,0 +1,25 @@
+{
+  "name": "my-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstack-shopping/My-Work.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullstack-shopping/My-Work/issues"
+  },
+  "homepage": "https://github.com/fullstack-shopping/My-Work#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.9.1",
+    "jquery": "^3.6.1"
+  }
+}
